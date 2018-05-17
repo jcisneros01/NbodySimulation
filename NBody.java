@@ -1,5 +1,5 @@
 /**
- * The Nbody class simulates a the universe.
+ * The Nbody class simulates a the solar system.
  */
 public class NBody {
 
